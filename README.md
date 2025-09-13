@@ -14,8 +14,9 @@
 4. [Installation](#installation)  
 5. [Folder & File Structure](#folder--file-structure)  
 6. [Usage](#usage)  
-7. [Cleanup & Security](#cleanup--security)  
-8. [Disclaimer](#disclaimer)
+7. [Cleanup & Security](#cleanup--security)
+8. [Future Enhancements](#future--enhancements)
+9. [Disclaimer](#disclaimer)
 
 ---
 
